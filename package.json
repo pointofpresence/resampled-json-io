@@ -1,0 +1,26 @@
+{
+  "name": "resampled-json-io",
+  "version": "0.0.1",
+  "description": "Node module for simple manipulations with JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pointofpresence/resampled-json-io.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "json",
+    "I/O",
+    "pointofpresence",
+    "file"
+  ],
+  "author": "pointofpresence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pointofpresence/resampled-json-io/issues"
+  }
+}
